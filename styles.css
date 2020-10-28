@@ -1,0 +1,41 @@
+body{
+    color: #3e3f38;
+    background-color: #ccb0a2;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1{
+    color: black; 
+    font-size: 25px;
+}
+
+h2{
+    color: black; 
+    font-size: 15px;
+}
+
+ul{
+    font-size: 12px;
+}
+
+nav{
+    background-color: #ae9386;
+    font-size: 8px;
+    border: 1px solid black;
+
+}
+
+a:link, a:visited {
+        
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      
+a:hover, a:active {
+        background-color: #fedb59;
+      }
+
